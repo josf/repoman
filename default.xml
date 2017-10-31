@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="origin" fetch=".." />
+  <default revision="master" remote="origin" sync-s="true" sync-j="4" sync-c="true" />
+  <project path="fakerepo" name="fakerepo.git" />
+  <project path="remote-emacs" name="remote-emacs.git" />
+  <project path="plantlife" name="plantlife.git" />
+</manifest>
