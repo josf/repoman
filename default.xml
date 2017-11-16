@@ -2,7 +2,14 @@
 <manifest>
   <remote  name="origin" fetch=".." />
   <default revision="master" remote="origin" sync-s="true" sync-j="4" sync-c="true" />
+  <project path="elastisch" name="elastisch.git" />
   <project path="fakerepo" name="fakerepo.git" />
+  <project path="clojure-cookbook" name="clojure-cookbook.git" />
   <project path="remote-emacs" name="remote-emacs.git" />
   <project path="plantlife" name="plantlife.git" />
+  <project path="rails" nam="rails.git" />
+  <project path="secretary" name="secretary.git" />
+  <project path="yada" name="yada.git" />
+  <project path="re-frame-template" name="re-frame-template.git" />
+  <project path="greffe" name="greffe.git" />
 </manifest>
